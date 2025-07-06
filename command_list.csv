@@ -1,0 +1,232 @@
+    1  whoami
+    2  help
+    3  help cd
+    4  clear
+    5  cls
+    6  clear
+    7  pwd
+    8  cd desktop
+    9  ls
+   10  cd streams
+   11  pwd
+   12  cd ..
+   13  pwd
+   14  clear
+   15  pwd
+   16  cd Hampton by Hilton
+   17  ls
+   18  clear
+   19  cd geometry
+   20  touch goit.txt
+   21  rm deneme
+   22  mkdir deneme
+   23  rm goit.txt
+   24  rmdir deneme
+   25  clear
+   26  date
+   27  ping www.google.com
+   28  systeminfo
+   29  ipconfig
+   30  clear
+   31  cd api
+   32  cd..
+   33  cd..
+   34  cd ..
+   35  git config --global user.name afrasenaa
+   36  git config -- global user.email afraodemis@outlook.com
+   37  pwd
+   38  cd SQL
+   39  git init
+   40  git add
+   41  git commit
+   42  git add .
+   43  git config --global user.email "afraodemis@outlook.com"
+   44  git config --global user.name "afrasenaa"
+   45  git commit
+   46  cd SQL
+   47  git init
+   48  git add
+   49  git add .
+   50  git init
+   51  git commit -m "İlk versiyon"
+   52  git remote add origin https://github.com/afrasenaa/Goit.git
+   53  git push -u origin main
+   54   git push -u origin master
+   55  git branch
+   56  git branch afra
+   57  git branch
+   58  git branch sena
+   59  git branch
+   60  git checkout afra
+   61  git branch
+   62  git checkout master
+   63  git branch
+   64  git checkout afra
+   65  git checkout master
+   66  git add .
+   67  git commit -m "master ilk commit"
+   68  git checkout afra
+   69  git add .
+   70  git commt -m "vl"
+   71  git commit -m "vl"
+   72  git checkout master
+   73  git merge afra
+   74  git add ..
+   75  git add .
+   76  git commit -m "v2"
+   77  git push
+   78  git checkout afta
+   79  git checkout afra
+   80  git merge master
+   81  git add .
+   82  git commit -m "son hali"
+   83  clear
+   84  git branch
+   85  git push
+   86  git push --set-upstream origin afra
+   87  git add .
+   88  git commit -m "son versiyon"
+   89  git push
+   90  git merge master
+   91  git checkout master
+   92  git checkout afra
+   93  git add .
+   94  git commit -m "son versiyon"
+   95  git push
+   96  git checkout master
+   97  git add .
+   98  git commit -m "v3"
+   99  git add .
+  100  git commit -m "v3"
+  101  git push
+  102  git checkout afra
+  103  git merge master
+  104  git clone https://github.com/afrasenaa/Goit.git
+  105  cd Goit
+  106  git branch
+  107  git add .
+  108  git commit -m "laylaylom"
+  109  git push
+  110  clear
+  111  cd GitBash
+  112  -c && rm ~/.bash_history
+  113  -c && rm~/.bash_history
+  114  -c && rm ~/.bash_history
+  115  git config --global user.name afrasenaa
+  116  git config --global user.email afraodemis@outlook.com
+  117  pwd
+  118  git add .
+  119  git init
+  120  git clone https://github.com/afrasenaa/HW_10.git
+  121  cd HW_10
+  122  touch text_ignore.txt
+  123  echo "text_ignore.txt" >> .gitignore
+  124  git status
+  125  git rm --cached text_ignore.txt
+  126  git status
+  127  git add
+  128  git add .
+  129  git commit -m "görev1"
+  130  git add <text_ignore.txt>
+  131  git add <text_ignore.txt>...
+  132  AFRA@Afra MINGW64 ~/Desktop
+  133  $ cd GitBash
+  134  AFRA@Afra MINGW64 ~/Desktop/GitBash
+  135  $ -c && rm ~/.bash_history
+  136  bash: -c: command not found
+  137  AFRA@Afra MINGW64 ~/Desktop/GitBash
+  138  $ -c && rm~/.bash_history
+  139  bash: -c: command not found
+  140  AFRA@Afra MINGW64 ~/Desktop/GitBash
+  141  $ -c && rm ~/.bash_history
+  142  bash: -c: command not found
+  143  AFRA@Afra MINGW64 ~/Desktop/GitBash
+  144  $ git config --global user.name afrasenaa
+  145  AFRA@Afra MINGW64 ~/Desktop/GitBash
+  146  $ git config --global user.email afraodemis@outlook.com
+  147  AFRA@Afra MINGW64 ~/Desktop/GitBash
+  148  $ pwd
+  149  /c/Users/AFRA/Desktop/GitBash
+  150  AFRA@Afra MINGW64 ~/Desktop/GitBash
+  151  $ git add .
+  152  fatal: not a git repository (or any of the parent directories): .git
+  153  AFRA@Afra MINGW64 ~/Desktop/GitBash
+  154  $ git init
+  155  Initialized empty Git repository in C:/Users/AFRA/Desktop/GitBash/.git/
+  156  AFRA@Afra MINGW64 ~/Desktop/GitBash (master)
+  157  $ git clone https://github.com/afrasenaa/HW_10.git
+  158  Cloning into 'HW_10'...
+  159  remote: Enumerating objects: 4, done.
+  160  remote: Counting objects: 100% (4/4), done.
+  161  remote: Compressing objects: 100% (3/3), done.
+  162  remote: Total 4 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+  163  cd HW_10
+  164  cd GitBash
+  165  git add.
+  166  git remote add https://github.com/afrasenaa/HW_10.git
+  167  git push -u origin main
+  168  git clone https://github.com/afrasenaa/HW_10.git
+  169  cd HW_10
+  170  git status
+  171  git add .
+  172  git commit -m "Add .gitignore file with text_ignore.txt"
+  173  touch main_test.txt
+  174  git add .
+  175  git commit -m "Add main_test.txt file"
+  176  git add main_test.txt .
+  177  git add main_test.txt
+  178  git status
+  179  git commit -m "Add main_test.txt file"
+  180  git status
+  181  git push
+  182  echo "text_ignore.txt" >> .gitignore
+  183  git status
+  184  git add .
+  185  git commit -m "Add .gitignore file with text_ignore.txt"
+  186  git push
+  187  echo "text_ignore.txt" >> .gitignore
+  188  git rm --cached text_ignore.txt
+  189  git status
+  190  git add .
+  191  git commit -m "Add .gitignore and ignore text_ignore.txt"
+  192  git push
+  193  git branch develop
+  194  git branch
+  195  git checkout develop
+  196  touch develop_text.txt
+  197  git add .
+  198  git commit -m "Görev3"
+  199  git push
+  200  echo "Bu develop dalında yapılan bir değişikliktir" > develop_test.txt
+  201  git status
+  202  git add .
+  203  git commit -m "update develop_test.txt"
+  204  git push
+  205  git add develop_text .
+  206  git add develop_text.txt .
+  207  git add develop_text.txt
+  208  git commit -m "update_develop.txt"
+  209  git status
+  210  git push
+  211  git branch
+  212  git push
+  213  git push --set-upstream origin develop
+  214  git add .
+  215  git commit -m "Görev 3"
+  216  git add develop_test.txt
+  217  git add .
+  218  git commit -m "İkinci değişiklik"
+  219  git push
+  220  git checkout main
+  221  git branch
+  222  git checkout main
+  223  git push
+  224  git checkout main
+  225  git stash
+  226  gi checkout main
+  227  git checkout main
+  228  git merge develop
+  229  gi log
+  230  git log
+  231  ls -la
+  232  history > command_list.csv
